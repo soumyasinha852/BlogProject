@@ -16,6 +16,7 @@ const Blogitems = ({blog:{
   return (
     <div className="blogitem-wrap"> 
       <img src={cover} alt="cover" className='blogitem-cover'/>
+      <hr />
       <Chip label={category} />
       <h3>{title}</h3>
       <p className='blogitem-desc'>{description} </p>
