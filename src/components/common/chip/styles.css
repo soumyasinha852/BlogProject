@@ -1,0 +1,10 @@
+.chip{
+    font-size: 0.7rem;
+    background: rgb(26,77,35);
+background: linear-gradient(90deg, rgba(26,77,35,0.9451219512195121) 0%, rgb(85, 82, 62) 0%);
+color: aliceblue;
+padding: 0.3rem 0.5rem;
+border-radius: 5px;
+width: fit-content;
+text-transform: capitalize;
+}

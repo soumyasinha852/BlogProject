@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Lemon&family=Roboto:wght@300&family=Rubik+Scribble&family=Salsa&family=Sevillana&display=swap');
+*{
+    background: rgb(26,77,35);
+background: linear-gradient(90deg, rgba(26,77,35,0.9451219512195121) 0%, rgba(214,210,184,1) 0%);
+}
+
+
+*,*::after,*::before{
+    margin:0;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Salsa', cursive;
+}
+button,input{
+    font-family: 'Salsa', cursive;
+}
+
+.container{
+    max-width: 1140px;
+    width: 95%;
+    margin:0 auto ;
+    padding: 1rem 0;
+   
+}

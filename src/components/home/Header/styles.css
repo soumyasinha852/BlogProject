@@ -1,0 +1,19 @@
+.home-header{
+    text-align: center;
+}
+.home-header h2{
+    color: rgb(81, 138, 25);
+    font-size: 2rem;
+}
+.home-header h1{
+    font-size: 3rem;
+    color: rgb(44, 84, 44);
+    margin-bottom: 1rem;
+}
+.home-header h1 span{
+    color: green;
+}
+.home-header p{
+    color: olivedrab;
+    font-weight: 500;
+}
